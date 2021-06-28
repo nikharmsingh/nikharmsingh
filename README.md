@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [18301732.wixsite.com/nikhar](https://18301732.wixsite.com/nikhar)
+- 👨‍💻 All of my projects are available at [1830173.wixsite.com/nikhar](https://18301732.wixsite.com/nikhar)
 
 - 💬 Ask me about **Arduino, IoT, Python, Perl,**
 
