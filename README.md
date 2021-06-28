@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhar-25&show_icons=true&locale=en&layout=compact" alt="nikhar-25" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nikhar-25&show_icons=true&locale=en" alt="nikhar-25" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhar-25&show_icons=true&locale=en" alt="nikhar-25" /></p>
