@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [1830173.wixsite.com/nikhar](https://18301732.wixsite.com/nikhar)
 
-- 💬 Ask me about **Arduino, IoT, Python, Perl,**
+- 💬 Ask me about **C, C++, HTML, Python, Arduino, IoT, Perl**
 
 - 📫 How to reach me **tnk905@gmail.com**
 
