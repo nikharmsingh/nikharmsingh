@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [1830173.wixsite.com/nikhar](https://18301732.wixsite.com/nikhar)
+- 👨‍💻 All of my projects are available at [Nikhar's Portfolio](18301732.wixsite.com/portfolio)
 
 - 💬 Ask me about **C, C++, HTML, Python, Arduino, IoT, Perl, Tableau**
 
