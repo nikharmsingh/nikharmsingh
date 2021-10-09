@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Nikhar's Portfolio](shorturl.at/fmrvA)
+- 👨‍💻 All of my projects are available at [shorturl.at/fmrvA](Nikhar's Portfolio)
 
 - 💬 Ask me about **C, C++, HTML, Python, Arduino, IoT, Perl, Tableau**
 
