@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tnk905@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/2RVlkvz](https://bit.ly/2RVlkvz)
+- 📄 Know about my experiences [Resume](https://bit.ly/3wyi2jS)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
