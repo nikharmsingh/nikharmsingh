@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikhar Mahendra Singh</h1>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhar-25&label=Profile%20views&color=0e75b6&style=flat" alt="nikhar-25" /> </p>-->
 
-- 🌱 I’m currently Grinding **Data Structures**
+- 🌱 I’m currently doing analysis as being a **Analyst**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://18301732.wixsite.com/portfolio)
 
-- 💬 Ask me about **C, C++, HTML, Python, Arduino, IoT, Perl, Tableau**
+- 💬 Ask me about **C, C++, HTML, Python, Tableau, Data Warehousing, Data Analytics, MySQL**
 
 - 📫 How to reach me **tnk905@gmail.com**
 
