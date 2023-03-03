@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently doing analysis as being a **Analyst**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://18301732.wixsite.com/portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://18301732.wixsite.com/portfolio/projects)
 
 - 💬 Ask me about **C, C++, HTML, Python, Tableau, Data Warehousing, Data Analytics, MySQL**
 
