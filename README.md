@@ -1,5 +1,19 @@
-# 💫 About Me:
-🔭🌱 I’m currently doing analysis as being a Data Analyst<br>👨‍💻 All of my projects are available at<br>💬 Ask me about C++, Python, SQL, Flask, Django, Data Analytics<br>🌱 I’m currently learning backend Devlopment<br>📫 How to reach me<br>📄 Know about my experiences<br>⚡ Fun fact - Good at Gaming, But Noob at Coding
+<h1 align="center">Hi 👋, I'm Nikhar Mahendra Singh</h1>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhar-25&label=Profile%20views&color=0e75b6&style=flat" alt="nikhar-25" /> </p>-->
+
+- 🌱 I’m currently doing analysis as being a **Data Analyst**
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://18301732.wixsite.com/portfolio/projects)
+
+- 💬 Ask me about **C++, Python, SQL, Flask, Django, Data Analytics**
+
+- 🌱 I’m currently learning **Backend Devlopment**
+
+- 📫 How to reach me **nikharms2500@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mswVs90z86PLrMyLc5fCrnvKPENsmd8l/view?usp=sharing)
+
+- ⚡ Fun fact - **Pro** at Gaming, But **Amateur** at Coding
 
 
 ## 🌐 Socials:
