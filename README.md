@@ -26,6 +26,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikhar-25&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhar-25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📊 Leetcode Stats:
+![](https://leetcode-badge-sage.vercel.app/badge/nik2000?theme=dark)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nikhar-25&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
