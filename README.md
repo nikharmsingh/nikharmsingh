@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently doing analysis as being a **Data Analyst**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://18301732.wixsite.com/portfolio/projects)
+- 👨‍💻 All of my projects are available at [Portfolio](https://nikharmsingh.github.io/)
 
 - 💬 Ask me about **C++, Python, SQL, Flask, Django, Data Analytics**
 
