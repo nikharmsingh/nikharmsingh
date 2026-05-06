@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nikharms2500@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mswVs90z86PLrMyLc5fCrnvKPENsmd8l/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zQm8wVFAAEpeq6fgu7oGfUWXXHj7P9W-/view?usp=sharing)
 
 - ⚡ Fun fact - **Pro** at Gaming, But **Amateur** at Coding
 
